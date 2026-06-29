@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS)
+# AI-Assisted Network Intrusion Detection System (NIDS)
 
 A real-time network intrusion detection system that monitors live network traffic,
 detects suspicious activity, and displays threats on a professional dashboard.
